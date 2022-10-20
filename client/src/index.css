@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url(https://www.benq.eu/content/dam/b2c/en/projectors/cineprime-series-home-cinema-projector/w2700/image/01-w2700-cinematic-color-with-true-4k-kv.jpg);
+  background-size: 100%;
+}
+
+.filterPart {
+  margin-top: 1rem;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
